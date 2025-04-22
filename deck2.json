@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Gimmighoul",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Minor Errand-Running",
+        "damage": 0,
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Tackle",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Gimmighoul",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Minor Errand-Running",
+        "damage": 0,
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Tackle",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Gimmighoul",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Minor Errand-Running",
+        "damage": 0,
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Tackle",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Gimmighoul",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Minor Errand-Running",
+        "damage": 0,
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Tackle",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Gholdengo ex",
+    "cardType": "Pokemon",
+    "hp": 260,
+    "abilities": [
+      {
+        "name": "Coin Bonus",
+        "text": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Make It Rain",
+        "damage": 50,
+        "text": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Gholdengo ex",
+    "cardType": "Pokemon",
+    "hp": 260,
+    "abilities": [
+      {
+        "name": "Coin Bonus",
+        "text": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Make It Rain",
+        "damage": 50,
+        "text": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Gholdengo ex",
+    "cardType": "Pokemon",
+    "hp": 260,
+    "abilities": [
+      {
+        "name": "Coin Bonus",
+        "text": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Make It Rain",
+        "damage": 50,
+        "text": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Gholdengo ex",
+    "cardType": "Pokemon",
+    "hp": 260,
+    "abilities": [
+      {
+        "name": "Coin Bonus",
+        "text": "Once during your turn, you may draw a card. If this Pokémon is in the Active Spot, draw 1 more card.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Make It Rain",
+        "damage": 50,
+        "text": "Discard any number of Basic Energy cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Gholdengo",
+    "cardType": "Pokemon",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Strike It Rich",
+        "damage": 30,
+        "text": "If this Pokémon evolved from Gimmighoul during this turn, this attack does 90 more damage.",
+        "cost": [
+          "Metal"
+        ]
+      },
+      {
+        "name": "Surf Back",
+        "damage": 100,
+        "text": "You may shuffle this Pokémon and all attached cards into your deck.",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1"
+    ]
+  },
+  {
+    "name": "Dunsparce",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Find a Friend",
+        "damage": 0,
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Bite",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Dunsparce",
+    "cardType": "Pokemon",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Find a Friend",
+        "damage": 0,
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "cost": [
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Bite",
+        "damage": 50,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Dudunsparce",
+    "cardType": "Pokemon",
+    "hp": 140,
+    "abilities": [
+      {
+        "name": "Run Away Draw",
+        "text": "Once during your turn, you may draw 3 cards. If you drew any cards in this way, shuffle this Pokémon and all attached cards into your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": 90,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1"
+    ]
+  },
+  {
+    "name": "Dudunsparce",
+    "cardType": "Pokemon",
+    "hp": 140,
+    "abilities": [
+      {
+        "name": "Run Away Draw",
+        "text": "Once during your turn, you may draw 3 cards. If you drew any cards in this way, shuffle this Pokémon and all attached cards into your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": 90,
+        "text": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1"
+    ]
+  },
+  {
+    "name": "Munkidori",
+    "cardType": "Pokemon",
+    "hp": 110,
+    "abilities": [
+      {
+        "name": "Adrena-Brain",
+        "text": "Once during your turn, if this Pokémon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent's Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mind Bend",
+        "damage": 60,
+        "text": "Your opponent's Active Pokémon is now Confused.",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Fezandipiti ex",
+    "cardType": "Pokemon",
+    "hp": 210,
+    "abilities": [
+      {
+        "name": "Flip the Script",
+        "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Cruel Arrow",
+        "damage": 0,
+        "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Arven",
+    "cardType": "Trainer",
+    "text": "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Arven",
+    "cardType": "Trainer",
+    "text": "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Arven",
+    "cardType": "Trainer",
+    "text": "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Arven",
+    "cardType": "Trainer",
+    "text": "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "cardType": "Trainer",
+    "text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "cardType": "Trainer",
+    "text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+  },
+  {
+    "name": "Ciphermaniac's Codebreaking",
+    "cardType": "Trainer",
+    "text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+  },
+  {
+    "name": "Boss's Orders (Ghetsis)",
+    "cardType": "Trainer",
+    "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Boss's Orders (Ghetsis)",
+    "cardType": "Trainer",
+    "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Iono",
+    "cardType": "Trainer",
+    "text": "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+  },
+  {
+    "name": "Lana's Aid",
+    "cardType": "Trainer",
+    "text": "Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your discard pile into your hand. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)"
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "cardType": "Trainer",
+    "text": "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "cardType": "Trainer",
+    "text": "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "cardType": "Trainer",
+    "text": "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Buddy-Buddy Poffin",
+    "cardType": "Trainer",
+    "text": "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Night Stretcher",
+    "cardType": "Trainer",
+    "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand."
+  },
+  {
+    "name": "Night Stretcher",
+    "cardType": "Trainer",
+    "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand."
+  },
+  {
+    "name": "Nest Ball",
+    "cardType": "Trainer",
+    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Earthen Vessel",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Switch",
+    "cardType": "Trainer",
+    "text": "Switch your Active Pokémon with 1 of your Benched Pokémon."
+  },
+  {
+    "name": "Counter Catcher",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Energy Search Pro",
+    "cardType": "Trainer",
+    "text": "Search your deck for any number of Basic Energy cards of different types, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Technical Machine: Evolution",
+    "cardType": "Trainer",
+    "text": "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn."
+  },
+  {
+    "name": "Rocky Helmet",
+    "cardType": "Trainer",
+    "text": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if it is Knocked Out), put 2 damage counters on the Attacking Pokémon."
+  },
+  {
+    "name": "Artazon",
+    "cardType": "Trainer",
+    "text": "Once during each player's turn, that player may search their deck for a Basic Pokémon that doesn't have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
+  },
+  {
+    "name": "Artazon",
+    "cardType": "Trainer",
+    "text": "Once during each player's turn, that player may search their deck for a Basic Pokémon that doesn't have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
+  },
+  {
+    "name": "Jamming Tower",
+    "cardType": "Trainer",
+    "text": "Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect."
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Darkness Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Darkness Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Grass Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Fire Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Water Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Lightning Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Fighting Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  }
+]

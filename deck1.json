@@ -1,0 +1,615 @@
+[
+  {
+    "name": "Duraludon",
+    "cardType": "Pokemon",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": 30,
+        "text": "",
+        "cost": [
+          "Metal"
+        ]
+      },
+      {
+        "name": "Raging Hammer",
+        "damage": 80,
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Duraludon",
+    "cardType": "Pokemon",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": 30,
+        "text": "",
+        "cost": [
+          "Metal"
+        ]
+      },
+      {
+        "name": "Raging Hammer",
+        "damage": 80,
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Duraludon",
+    "cardType": "Pokemon",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": 30,
+        "text": "",
+        "cost": [
+          "Metal"
+        ]
+      },
+      {
+        "name": "Raging Hammer",
+        "damage": 80,
+        "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic"
+    ]
+  },
+  {
+    "name": "Archaludon ex",
+    "cardType": "Pokemon",
+    "hp": 300,
+    "abilities": [
+      {
+        "name": "Assemble Alloy",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Defender",
+        "damage": 220,
+        "text": "During your opponent's next turn, this Pokémon has no Weakness.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Archaludon ex",
+    "cardType": "Pokemon",
+    "hp": 300,
+    "abilities": [
+      {
+        "name": "Assemble Alloy",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Defender",
+        "damage": 220,
+        "text": "During your opponent's next turn, this Pokémon has no Weakness.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Archaludon ex",
+    "cardType": "Pokemon",
+    "hp": 300,
+    "abilities": [
+      {
+        "name": "Assemble Alloy",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Defender",
+        "damage": 220,
+        "text": "During your opponent's next turn, this Pokémon has no Weakness.",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ]
+  },
+  {
+    "name": "Brute Bonnet",
+    "cardType": "Pokemon",
+    "hp": 120,
+    "abilities": [
+      {
+        "name": "Toxic Powder",
+        "text": "Once during your turn, if this Pokémon has an Ancient Booster Energy Capsule attached, you may make both Active Pokémon Poisoned.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Rampaging Hammer",
+        "damage": 120,
+        "text": "During your next turn, this Pokémon can't attack.",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Brute Bonnet",
+    "cardType": "Pokemon",
+    "hp": 120,
+    "abilities": [
+      {
+        "name": "Toxic Powder",
+        "text": "Once during your turn, if this Pokémon has an Ancient Booster Energy Capsule attached, you may make both Active Pokémon Poisoned.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Rampaging Hammer",
+        "damage": 120,
+        "text": "During your next turn, this Pokémon can't attack.",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ]
+  },
+  {
+    "name": "Squawkabilly ex",
+    "cardType": "Pokemon",
+    "hp": 160,
+    "abilities": [
+      {
+        "name": "Squawk and Seize",
+        "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Motivate",
+        "damage": 20,
+        "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Squawkabilly ex",
+    "cardType": "Pokemon",
+    "hp": 160,
+    "abilities": [
+      {
+        "name": "Squawk and Seize",
+        "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Motivate",
+        "damage": 20,
+        "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Fezandipiti ex",
+    "cardType": "Pokemon",
+    "hp": 210,
+    "abilities": [
+      {
+        "name": "Flip the Script",
+        "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Cruel Arrow",
+        "damage": 0,
+        "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Mew ex",
+    "cardType": "Pokemon",
+    "hp": 180,
+    "abilities": [
+      {
+        "name": "Restart",
+        "text": "Once during your turn, you may draw cards until you have 3 cards in your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Genome Hacking",
+        "damage": 0,
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Bloodmoon Ursaluna ex",
+    "cardType": "Pokemon",
+    "hp": 260,
+    "abilities": [
+      {
+        "name": "Seasoned Skill",
+        "text": "Blood Moon used by this Pokémon costs Colorless less for each Prize card your opponent has taken.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Blood Moon",
+        "damage": 240,
+        "text": "During your next turn, this Pokémon can't attack.",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Latias ex",
+    "cardType": "Pokemon",
+    "hp": 210,
+    "abilities": [
+      {
+        "name": "Skyliner",
+        "text": "Your Basic Pokémon in play have no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Eon Blade",
+        "damage": 200,
+        "text": "During your next turn, this Pokémon can't attack.",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "subtypes": [
+      "Basic",
+      "ex"
+    ]
+  },
+  {
+    "name": "Carmine",
+    "cardType": "Trainer",
+    "text": "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards."
+  },
+  {
+    "name": "Carmine",
+    "cardType": "Trainer",
+    "text": "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards."
+  },
+  {
+    "name": "Carmine",
+    "cardType": "Trainer",
+    "text": "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards."
+  },
+  {
+    "name": "Carmine",
+    "cardType": "Trainer",
+    "text": "If you go first, you may use this card during your first turn.    Discard your hand and draw 5 cards."
+  },
+  {
+    "name": "Boss's Orders (Ghetsis)",
+    "cardType": "Trainer",
+    "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Boss's Orders (Ghetsis)",
+    "cardType": "Trainer",
+    "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Boss's Orders (Ghetsis)",
+    "cardType": "Trainer",
+    "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+  },
+  {
+    "name": "Professor's Research",
+    "cardType": "Trainer",
+    "text": "Discard your hand and draw 7 cards."
+  },
+  {
+    "name": "Professor's Research",
+    "cardType": "Trainer",
+    "text": "Discard your hand and draw 7 cards."
+  },
+  {
+    "name": "Professor Turo's Scenario",
+    "cardType": "Trainer",
+    "text": "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)"
+  },
+  {
+    "name": "Kieran",
+    "cardType": "Trainer",
+    "text": "Choose 1:    • Switch your Active Pokémon with 1 of your Benched Pokémon.  • During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance)."
+  },
+  {
+    "name": "Nest Ball",
+    "cardType": "Trainer",
+    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Nest Ball",
+    "cardType": "Trainer",
+    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Nest Ball",
+    "cardType": "Trainer",
+    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Nest Ball",
+    "cardType": "Trainer",
+    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Ultra Ball",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Pokégear 3.0",
+    "cardType": "Trainer",
+    "text": "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+  },
+  {
+    "name": "Pokégear 3.0",
+    "cardType": "Trainer",
+    "text": "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+  },
+  {
+    "name": "Pokégear 3.0",
+    "cardType": "Trainer",
+    "text": "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+  },
+  {
+    "name": "Night Stretcher",
+    "cardType": "Trainer",
+    "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand."
+  },
+  {
+    "name": "Night Stretcher",
+    "cardType": "Trainer",
+    "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand."
+  },
+  {
+    "name": "Night Stretcher",
+    "cardType": "Trainer",
+    "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand."
+  },
+  {
+    "name": "Earthen Vessel",
+    "cardType": "Trainer",
+    "text": "You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+  },
+  {
+    "name": "Pal Pad",
+    "cardType": "Trainer",
+    "text": "Shuffle up to 2 Supporter cards from your discard pile into your deck."
+  },
+  {
+    "name": "Secret Box",
+    "cardType": "Trainer",
+    "text": "You can't have more than 1 ACE SPEC card in your deck."
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "cardType": "Trainer",
+    "text": "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions."
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "cardType": "Trainer",
+    "text": "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions."
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "cardType": "Trainer",
+    "text": "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions."
+  },
+  {
+    "name": "Ancient Booster Energy Capsule",
+    "cardType": "Trainer",
+    "text": "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions."
+  },
+  {
+    "name": "Binding Mochi",
+    "cardType": "Trainer",
+    "text": "Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+  },
+  {
+    "name": "Binding Mochi",
+    "cardType": "Trainer",
+    "text": "Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+  },
+  {
+    "name": "Perilous Jungle",
+    "cardType": "Trainer",
+    "text": "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's)."
+  },
+  {
+    "name": "Perilous Jungle",
+    "cardType": "Trainer",
+    "text": "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's)."
+  },
+  {
+    "name": "Perilous Jungle",
+    "cardType": "Trainer",
+    "text": "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's)."
+  },
+  {
+    "name": "Perilous Jungle",
+    "cardType": "Trainer",
+    "text": "During Pokémon Checkup, put 2 more damage counters on each Poisoned non-Darkness Pokémon (both yours and your opponent's)."
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  },
+  {
+    "name": "Basic Metal Energy",
+    "cardType": "Energy",
+    "energyType": "Basic"
+  }
+]
